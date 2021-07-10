@@ -1,0 +1,2 @@
+rootProject.name = "oopInheritance"
+include ':app'
